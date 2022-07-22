@@ -1,0 +1,14 @@
+#recipes {
+    font-family: 'Josefin Sans', sans-serif;
+    /* display: flex; */
+    flex-direction: row;
+    align-items: stretch;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 2em;
+}
+
+h2{
+    color: green;
+}
